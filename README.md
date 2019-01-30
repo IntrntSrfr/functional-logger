@@ -4,10 +4,8 @@
 
 | Key              | Value                           |
 | ---------------- |---------------------------------|
-| OwnerID          | Bot Owner ID                    |
 | Token            | Discord bot token               |
 | OWOApiKey        | OwO API Key                     |
-| ConnectionString | PSQL Connection string          |
 | MsgEdit          | Edited messages log channel ID  |
 | MsgDelete        | Deleted messages log channel ID |
 | Ban              | Ban log channel ID              |
